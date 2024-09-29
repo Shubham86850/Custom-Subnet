@@ -1,6 +1,6 @@
 # Custom Subnet
 
-# Customized Subnet Utilizing HperSDK
+# Customized Subnet Utilizing HyperSDK
 This project aims to enable the creation, management, and interaction of tokens within a virtual machine environment.
 ## Features
 * **Token Creation:** Create new tokens effortlessly.
