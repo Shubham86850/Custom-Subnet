@@ -11,11 +11,13 @@ import (
 	"github.com/ava-labs/hypersdk/consts"
 )
 
-// information about our VM
 const (
-	HRP    = "token"   //TOKEN
-	Name   = "TokenVM" //SHUBHAM
-	Symbol = "TKNVM"   //SK
+	// TODO: choose a human-readable part for your hyperchain
+	HRP = "UniToken"
+	// TODO: choose a name for your hyperchain
+	Name = "UniCoin"
+	// TODO: choose a token symbol
+	Symbol = "UNI"
 )
 
 var ID ids.ID
